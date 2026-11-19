@@ -1,2 +1,4 @@
 this app is task manager it will manage your tasks 
 this is main file
+
+add a humanity tracking feature
